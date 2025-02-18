@@ -1,8 +1,6 @@
-
 #mach_zender_interferometer_time_def.py
 
 import numpy as np
-
 
 def propagate1(opl1=1, opl2=1, Ein=np.array([[1],[0]])):
 
@@ -11,8 +9,6 @@ def propagate1(opl1=1, opl2=1, Ein=np.array([[1],[0]])):
     Eout = np.dot(propagatematrix1,Ein)
     
     return Eout
-
-
 
 def beamsplitter(PT,Ein):
 
