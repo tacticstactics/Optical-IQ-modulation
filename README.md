@@ -1,6 +1,7 @@
 # optical-IQ-modulation
 
-Optical In-Phase and Quadrature (IQ) modulation is a technique used in optical communication systems to modulate both the amplitude and phase of an optical signal. This modulation method is essential for transmitting high-speed data over long distances with minimal signal degradation.<br>
+Optical IQ ("In-phase" and "quadrature") modulation is a technique used in optical communication system to modulate both the phase and amplitude of an optical signal, and it is used to achieve high-speed and efficient data transmission.
+This modulation method is essential for transmitting high-speed data over long distances with minimal signal degradation.<br>
 <br>
 Two individual I and Q optical signals are independently modulated.<br>
 Optical I/Q modulator consists of two independently-controlled Mach–Zehnder interferometers (MZI) whose outputs are combined.<br>
